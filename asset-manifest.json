@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/khushisuri/payments_app.git/static/css/main.b10d08da.chunk.css",
+    "main.js": "/khushisuri/payments_app.git/static/js/main.f609613f.chunk.js",
+    "main.js.map": "/khushisuri/payments_app.git/static/js/main.f609613f.chunk.js.map",
+    "runtime-main.js": "/khushisuri/payments_app.git/static/js/runtime-main.7db2762b.js",
+    "runtime-main.js.map": "/khushisuri/payments_app.git/static/js/runtime-main.7db2762b.js.map",
+    "static/js/2.4a92b4b5.chunk.js": "/khushisuri/payments_app.git/static/js/2.4a92b4b5.chunk.js",
+    "static/js/2.4a92b4b5.chunk.js.map": "/khushisuri/payments_app.git/static/js/2.4a92b4b5.chunk.js.map",
+    "index.html": "/khushisuri/payments_app.git/index.html",
+    "static/css/main.b10d08da.chunk.css.map": "/khushisuri/payments_app.git/static/css/main.b10d08da.chunk.css.map",
+    "static/js/2.4a92b4b5.chunk.js.LICENSE.txt": "/khushisuri/payments_app.git/static/js/2.4a92b4b5.chunk.js.LICENSE.txt",
+    "static/media/byju.5fac14b6.jpg": "/khushisuri/payments_app.git/static/media/byju.5fac14b6.jpg",
+    "static/media/disney.a70e5234.png": "/khushisuri/payments_app.git/static/media/disney.a70e5234.png",
+    "static/media/lion.d3a48766.png": "/khushisuri/payments_app.git/static/media/lion.d3a48766.png",
+    "static/media/netflixlogo.cca6b5ba.jpg": "/khushisuri/payments_app.git/static/media/netflixlogo.cca6b5ba.jpg",
+    "static/media/unnamed.53eb75ed.png": "/khushisuri/payments_app.git/static/media/unnamed.53eb75ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7db2762b.js",
+    "static/js/2.4a92b4b5.chunk.js",
+    "static/css/main.b10d08da.chunk.css",
+    "static/js/main.f609613f.chunk.js"
+  ]
+}
